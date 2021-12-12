@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Status Saver</string>
+    <string name="video_player">Video player is not available at the moment.</string>
+</resources>
